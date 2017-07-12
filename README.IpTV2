@@ -1,0 +1,52 @@
+# IPTV2
+#EXTM3U
+#EXTINF:0,Fox Sports (IT)
+http://best-anonymous.eu:8000/live/donat2/donat2/2265.ts
+#EXTINF:0,Sky Sport 24 (IT)
+http://best-anonymous.eu:8000/live/donat2/donat2/2142.ts
+#EXTINF:0,Milan channel
+http://best-anonymous.eu:8000/live/donat2/donat2/2241.ts
+#EXTINF:0,Inter Channel
+http://best-anonymous.eu:8000/live/donat2/donat2/2257.ts
+#EXTINF:0,JI Juventus TV
+http://best-anonymous.eu:8000/live/donat2/donat2/2253.ts
+#EXTINF:0,Roma Channel
+http://best-anonymous.eu:8000/live/donat2/donat2/2177.ts
+#EXTINF:0,Lazio Style Channel
+http://best-anonymous.eu:8000/live/donat2/donat2/2247.ts
+#EXTINF:0,EuroSport 1 (IT)
+http://best-anonymous.eu:8000/live/donat2/donat2/2281.ts
+#EXTINF:0,EuroSport 2 (IT)
+http://best-anonymous.eu:8000/live/donat2/donat2/2282.ts
+#EXTINF:0,beIN Sports USA
+http://best-anonymous.eu:8000/live/donat2/donat2/27489.ts
+#EXTINF:0,BT SPORT ESPN
+http://best-anonymous.eu:8000/live/donat2/donat2/27580.ts
+#EXTINF:0,Univision Deportes
+http://best-anonymous.eu:8000/live/donat2/donat2/27464.ts
+#EXTINF:0,NBCSN
+http://best-anonymous.eu:8000/live/donat2/donat2/27536.ts
+#EXTINF:0,Eurosport 1 (DE)
+http://best-anonymous.eu:8000/live/donat2/donat2/24356.ts
+#EXTINF:0,Eurosport 2 (DE)
+http://best-anonymous.eu:8000/live/donat2/donat2/24382.ts
+#EXTINF:0,TRT SPOR
+http://best-anonymous.eu:8000/live/donat2/donat2/25436.ts
+#EXTINF:0,EUROSPORT (ES)
+http://best-anonymous.eu:8000/live/donat2/donat2/24922.ts
+#EXTINF:0,beIN Sports España
+http://best-anonymous.eu:8000/live/donat2/donat2/25017.ts
+#EXTINF:0,Digi Sport 1 (HU)
+http://best-anonymous.eu:8000/live/donat2/donat2/25010.ts
+#EXTINF:0,Digi Sport 2 (HU)
+http://best-anonymous.eu:8000/live/donat2/donat2/25009.ts
+#EXTINF:0,Fox Sports 1 (Asia)
+http://best-anonymous.eu:8000/live/donat2/donat2/25014.ts
+#EXTINF:0,Fox Sports 2 (Asia)
+http://best-anonymous.eu:8000/live/donat2/donat2/25013.ts
+#EXTINF:0,Fox Sports 3 (Asia)
+http://best-anonymous.eu:8000/live/donat2/donat2/25012.ts
+#EXTINF:0,OSN Sports 1
+http://best-anonymous.eu:8000/live/donat2/donat2/25002.ts
+#EXTINF:0,SkyNet Sports 1
+http:/...............
